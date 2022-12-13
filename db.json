@@ -51,7 +51,7 @@
       }
     }
   ],
-  "dranken": [
+  "drinks": [
     {
       "id": 1,
       "name": "Cola",
