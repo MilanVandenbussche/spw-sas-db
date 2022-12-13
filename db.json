@@ -52,39 +52,37 @@
     }
   ],
   "dranken": [
-    [
-      {
-        "id": 1,
-        "name": "cola",
-        "img": {
-          "sm": "/cola-100x100.jpg",
-          "lg": "/cola-200x200.jpg"
-        }
-      },
-      {
-        "id": 2,
-        "name": "cola zero",
-        "img": {
-          "sm": "/cola_zero-100x100.jpg",
-          "lg": "/cola_zero-200x200.jpg"
-        }
-      },
-      {
-        "id": 3,
-        "name": "fanta",
-        "img": {
-          "sm": "/fanta-100x100.jpg",
-          "lg": "/fanta-200x200.jpg"
-        }
-      },
-      {
-        "id": 4,
-        "name": "icetea",
-        "img": {
-          "sm": "/icetea-100x100.jpg",
-          "lg": "/icetea-200x200.jpg"
-        }
+    {
+      "id": 1,
+      "name": "cola",
+      "img": {
+        "sm": "/cola-100x100.jpg",
+        "lg": "/cola-200x200.jpg"
       }
-    ]
+    },
+    {
+      "id": 2,
+      "name": "cola zero",
+      "img": {
+        "sm": "/cola_zero-100x100.jpg",
+        "lg": "/cola_zero-200x200.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "fanta",
+      "img": {
+        "sm": "/fanta-100x100.jpg",
+        "lg": "/fanta-200x200.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "icetea",
+      "img": {
+        "sm": "/icetea-100x100.jpg",
+        "lg": "/icetea-200x200.jpg"
+      }
+    }
   ]
 }
