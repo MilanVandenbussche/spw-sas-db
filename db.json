@@ -1,92 +1,90 @@
-[
-  {
-    "people": [
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Vandenbussche",
+      "firstname": "Milan",
+      "admin": true,
+      "img": {
+        "sm": "/milan-50x50.jpg",
+        "lg": "/milan-500x500.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dehaene",
+      "firstname": "Rebecca",
+      "admin": true,
+      "img": {
+        "sm": "/rebecca-50x50.jpg",
+        "lg": "/rebecca-500x500.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Kino",
+      "firstname": "Thibaut",
+      "admin": false,
+      "img": {
+        "sm": "/thibaut-50x50.jpg",
+        "lg": "/thibaut-500x500.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Laperre",
+      "firstname": "Eva",
+      "admin": false,
+      "img": {
+        "sm": "/eva-50x50.jpg",
+        "lg": "/eva-500x500.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Lacour",
+      "firstname": "Nina",
+      "admin": false,
+      "img": {
+        "sm": "/nina-50x50.jpg",
+        "lg": "/nina-500x500.jpg"
+      }
+    }
+  ],
+  "dranken": [
+    [
       {
         "id": 1,
-        "name": "Vandenbussche",
-        "firstname": "Milan",
-        "admin": true,
+        "name": "cola",
         "img": {
-          "sm": "/milan-50x50.jpg",
-          "lg": "/milan-500x500.jpg"
+          "sm": "/cola-100x100.jpg",
+          "lg": "/cola-200x200.jpg"
         }
       },
       {
         "id": 2,
-        "name": "Dehaene",
-        "firstname": "Rebecca",
-        "admin": true,
+        "name": "cola zero",
         "img": {
-          "sm": "/rebecca-50x50.jpg",
-          "lg": "/rebecca-500x500.jpg"
+          "sm": "/cola_zero-100x100.jpg",
+          "lg": "/cola_zero-200x200.jpg"
         }
       },
       {
         "id": 3,
-        "name": "Kino",
-        "firstname": "Thibaut",
-        "admin": false,
+        "name": "fanta",
         "img": {
-          "sm": "/thibaut-50x50.jpg",
-          "lg": "/thibaut-500x500.jpg"
+          "sm": "/fanta-100x100.jpg",
+          "lg": "/fanta-200x200.jpg"
         }
       },
       {
         "id": 4,
-        "name": "Laperre",
-        "firstname": "Eva",
-        "admin": false,
+        "name": "icetea",
         "img": {
-          "sm": "/eva-50x50.jpg",
-          "lg": "/eva-500x500.jpg"
-        }
-      },
-      {
-        "id": 5,
-        "name": "Lacour",
-        "firstname": "Nina",
-        "admin": false,
-        "img": {
-          "sm": "/nina-50x50.jpg",
-          "lg": "/nina-500x500.jpg"
+          "sm": "/icetea-100x100.jpg",
+          "lg": "/icetea-200x200.jpg"
         }
       }
-    ],
-    "dranken": [
-      [
-        {
-          "id": 1,
-          "name": "cola",
-          "img": {
-            "sm": "/cola-100x100.jpg",
-            "lg": "/cola-200x200.jpg"
-          }
-        },
-        {
-          "id": 2,
-          "name": "cola zero",
-          "img": {
-            "sm": "/cola_zero-100x100.jpg",
-            "lg": "/cola_zero-200x200.jpg"
-          }
-        },
-        {
-          "id": 3,
-          "name": "fanta",
-          "img": {
-            "sm": "/fanta-100x100.jpg",
-            "lg": "/fanta-200x200.jpg"
-          }
-        },
-        {
-          "id": 4,
-          "name": "icetea",
-          "img": {
-            "sm": "/icetea-100x100.jpg",
-            "lg": "/icetea-200x200.jpg"
-          }
-        }
-      ]
     ]
-  }
-]
+  ]
+}
